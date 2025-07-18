@@ -1,0 +1,38 @@
+.startMesBox {
+    position: absolute;
+    left: 30%;
+    right: 30%;
+    top: 20%;
+
+    height: 35rem;
+    padding: 1rem;
+
+    background-color: rgba(0, 0, 0, 0.763);
+    border-radius: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.startMesBox h1 {
+    color: white;
+    font-family: "poppins", sans-serif;
+    font-weight: 500;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.startMesBox p{
+    color: white;
+    font-family: "poppins", sans-serif;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.startDesc {
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}

@@ -1,0 +1,33 @@
+.modernTool img {
+    height: 15rem;
+}
+
+.modernTool {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modernTools {
+    position: absolute;
+}
+
+.wrong-indicator img {
+    height: 13.5rem;
+}
+
+.wrong-indicator {
+    size: 1rem;
+    position: absolute;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    animation: pop 0.3s ease-out;
+}
+
+@keyframes pop {
+  from { transform: scale(0); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
