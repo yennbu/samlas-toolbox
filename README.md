@@ -1,2 +1,2 @@
 # Samlas Toolbox
-Educational application for Motala museer
+Educational application for Motala Museum
