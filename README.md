@@ -1,2 +1,2 @@
-# samlas-verktygsl-da
+# Samlas Toolbox
 Educational application for Motala museer
