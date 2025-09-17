@@ -3,13 +3,17 @@ Educational application for Motala Museum
 
 The purpose of this game is to let children explore and learn about tools used in the Stone Age, together with the museum’s mascot, the bird Samla.
 
+[Test the app](https://samlas-verktygslada.netlify.app/) 
+
+Please note: this app is optimized for a 27-inch screen.
+
 ---
 
 ## About this project
 This project is built with React and Vite.  
 I illustrated all the tools and the background in Procreate.
 
-Please note: this project is not responsive, as it was intended to run on a specific display at the museum.
+This project is not responsive, as it was intended to run on a specific display at the museum.
 
 ---
 
